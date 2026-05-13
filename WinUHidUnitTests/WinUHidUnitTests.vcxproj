@@ -92,6 +92,7 @@
       <PrecompiledHeader>Create</PrecompiledHeader>
     </ClCompile>
     <ClCompile Include="PS5.cpp" />
+    <ClCompile Include="SteamController.cpp" />
     <ClCompile Include="Utilities.cpp" />
     <ClCompile Include="XOne.cpp" />
   </ItemGroup>

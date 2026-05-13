@@ -87,6 +87,7 @@
     <ClInclude Include="WinUHidMouse.h" />
     <ClInclude Include="WinUHidPS4.h" />
     <ClInclude Include="WinUHidPS5.h" />
+    <ClInclude Include="WinUHidSteamController.h" />
     <ClInclude Include="WinUHidXOne.h" />
   </ItemGroup>
   <ItemGroup>
@@ -97,6 +98,7 @@
     <ClCompile Include="WinUHidMouse.cpp" />
     <ClCompile Include="WinUHidPS4.cpp" />
     <ClCompile Include="WinUHidPS5.cpp" />
+    <ClCompile Include="WinUHidSteamController.cpp" />
     <ClCompile Include="WinUHidXOne.cpp" />
   </ItemGroup>
   <ItemGroup>
